@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smartphone and esp8266</string>
+    <string name="say_the_Word">Say the word</string>
+    <string name="the_first_button">translate</string>
+
+    <string name="ip_address">enter ip address</string>
+</resources>
